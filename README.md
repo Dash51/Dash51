@@ -9,6 +9,6 @@ _______________________________
  - ⚙️ Coding & Remaking scripts for fivem using most of the time QB FrameWork.
  _______________________________
 
- - 📕 - Working at Cl2host company that hosting vps, the company was founded by maor and located in israel.
+ - 📕  Working at Cl2host company that hosting vps, the company was founded by maor and located in israel.
 the company has many customers, its important to note that the company has many good results.
 We have a good team support and technical, everytime we make updates to our new products.
