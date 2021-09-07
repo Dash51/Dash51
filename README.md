@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-<!--![128203082-bcaa2095-6193-4d3c-8b32-e5fd7ade3b00 (1)](https://user-images.githubusercontent.com/77500505/132336544-2f54c485-bd42-40ac-89d6-409e8d81327e.png)
+[128203082-bcaa2095-6193-4d3c-8b32-e5fd7ade3b00 (1)](https://user-images.githubusercontent.com/77500505/132336544-2f54c485-bd42-40ac-89d6-409e8d81327e.png)
 
 **Dash51/Dash51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
